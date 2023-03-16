@@ -1,22 +1,37 @@
 # Brotato-Patamods
-A mod collection of every character, item, weapon or challenge I've made. Subscribe and you'll see new additions automatically added to your game as I develop them!
+A mod collection of every character, item, weapon or challenge I've made. I aim for a new character and unlock roughly every week.
+
+Disclaimer: Some of these characters won't be well balanced and could be considered busted, especially as I'm not one to nerf characters after I've published them if I can help it. If you're looking for characters balanced around the base game's difficulty, this mod probably isn't for you.
 
 -----
 
 Patamods currently includes:
 
-2 characters
-- The Collector (unlocked by gathering 50000 materials)
-- The Dwarf (unlocked by reaching +20 armor)
+7 characters
+~ Collector
+~ Dwarf
+~ Perfectionist
+~ Stuck
+~ Catato
+~ Magnetic
+~ Dual Wielder
 
-2 items
-- Monocle (unlocked by winning a run as Collector)
-- Fortress (unlocked by winning a run as Dwarf)
+6 items
+~ Monocle (unlocked by winning a run as Collector)
+~ Fortress (unlocked by winning a run as Dwarf)
+~ Bullet Time (unlocked by winning a run as Perfectionist)
+~ Bell Collar (unlocked by winning a run as Catato)
+~ Fishing Magnet (unlocked by winning a run as Magnetic)
+~ Domino (unlocked by winning a run as Dual Wielder)
 
-Requires ContentLoader and Brotils.
+1 weapon
+~ Hookshot (unlocked by winning a run as Stuck)
+
+Requires ContentLoader.
 
 -----
 
 Potential updates in the future
--Further balancing updates (so sound off in the comments)
+-Further balancing updates (so sound off in the discussions)
+-Reworked assets, for when I think I can do a better job
 -New characters, items, and unlocks
