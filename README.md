@@ -3,6 +3,8 @@ A mod collection of every character, item, weapon or challenge I've made.
 
 Disclaimer: Some of these characters won't be well balanced and could be considered busted, especially as I'm not one to nerf characters after I've published them if I can help it. If you're looking for characters balanced around the base game's difficulty, this mod probably isn't for you.
 
+![patamods_workshop_icon](https://user-images.githubusercontent.com/125201922/231757208-fe76cfbf-7a85-4d8a-8530-6bcd69e1b8c8.png)
+
 -----
 
 Patamods currently includes:
