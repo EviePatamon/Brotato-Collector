@@ -1,5 +1,5 @@
 # Brotato-Patamods
-A mod collection of every character, item, weapon or challenge I've made. I aim for a new character and unlock roughly every week.
+A mod collection of every character, item, weapon or challenge I've made.
 
 Disclaimer: Some of these characters won't be well balanced and could be considered busted, especially as I'm not one to nerf characters after I've published them if I can help it. If you're looking for characters balanced around the base game's difficulty, this mod probably isn't for you.
 
@@ -7,7 +7,7 @@ Disclaimer: Some of these characters won't be well balanced and could be conside
 
 Patamods currently includes:
 
-7 characters
+9 characters
 ~ Collector
 ~ Dwarf
 ~ Perfectionist
@@ -15,14 +15,18 @@ Patamods currently includes:
 ~ Catato
 ~ Magnetic
 ~ Dual Wielder
+~ Builder
+~ Hero
 
-6 items
+8 items
 ~ Monocle (unlocked by winning a run as Collector)
 ~ Fortress (unlocked by winning a run as Dwarf)
 ~ Bullet Time (unlocked by winning a run as Perfectionist)
 ~ Bell Collar (unlocked by winning a run as Catato)
 ~ Fishing Magnet (unlocked by winning a run as Magnetic)
 ~ Domino (unlocked by winning a run as Dual Wielder)
+~ Blueprints (unlocked by winning a run as Builder)
+~ Brave Heart (unlocked by winning a run as Hero)
 
 1 weapon
 ~ Hookshot (unlocked by winning a run as Stuck)
