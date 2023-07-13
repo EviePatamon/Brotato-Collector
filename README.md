@@ -9,7 +9,7 @@ Disclaimer: Some of these characters won't be well balanced and could be conside
 
 Patamods currently includes:
 
-9 characters
+10 characters
 ~ Collector
 ~ Dwarf
 ~ Perfectionist
@@ -19,6 +19,7 @@ Patamods currently includes:
 ~ Dual Wielder
 ~ Builder
 ~ Hero
+~ Regal
 
 8 items
 ~ Monocle (unlocked by winning a run as Collector)
@@ -30,8 +31,9 @@ Patamods currently includes:
 ~ Blueprints (unlocked by winning a run as Builder)
 ~ Brave Heart (unlocked by winning a run as Hero)
 
-1 weapon
+2 weapons
 ~ Hookshot (unlocked by winning a run as Stuck)
+~ Midas' Scepter (unlocked by winning a run as Regal)
 
 Requires ContentLoader.
 
