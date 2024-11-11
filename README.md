@@ -35,8 +35,6 @@ Patamods currently includes:
 ~ Hookshot (unlocked by winning a run as Stuck)
 ~ Midas' Scepter (unlocked by winning a run as Regal)
 
-Requires ContentLoader.
-
 -----
 
 Potential updates in the future
